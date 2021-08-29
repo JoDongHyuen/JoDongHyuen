@@ -10,7 +10,7 @@
 <br/>
 
 <h3 align="center">🌱 Sub Tech Stack 🌱</h3>
-<p align="center">Techs that I'm learing</p>
+<p align="center">Techs that I know</p>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
