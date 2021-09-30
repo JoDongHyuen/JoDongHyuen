@@ -32,7 +32,7 @@
 <br/>
 
 ## Qualification
-- ✔(2021.9) ADsP |  Advanced Data Analytics Semi-Professional
+- ✔ ADsP (2021.9) |  Advanced Data Analytics Semi-Professional
 
 <br/>
 <a href="https://solved.ac/rhsnfl1122"><img height="195px" width="320px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rhsnfl1122" /></a>
