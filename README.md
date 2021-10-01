@@ -33,6 +33,7 @@
 
 ## Qualification
 - ✔ ADsP (2021.9) |  Advanced Data Analytics Semi-Professional
+- ✔ SQLD (2021.10) | SQL Developer
 
 <br/>
 
