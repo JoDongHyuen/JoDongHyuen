@@ -42,5 +42,5 @@
 <br/>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhsnfl1122)=195](https://solved.ac/rhsnfl1122)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhsnfl1122 =195x320)](https://solved.ac/rhsnfl1122)
 ![JoDongHyuen 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=JoDongHyuen&bg_color=30,2cd8d5,c5c1ff,ffbac3&title_color=fff&text_color=fff)
