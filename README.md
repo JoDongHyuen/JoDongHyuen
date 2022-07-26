@@ -43,4 +43,5 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhsnfl1122)](https://solved.ac/rhsnfl1122)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=rhsnfl1122&theme=cold)
 ![JoDongHyuen 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=JoDongHyuen&bg_color=30,2cd8d5,c5c1ff,ffbac3&title_color=fff&text_color=fff)
