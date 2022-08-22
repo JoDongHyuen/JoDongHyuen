@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=12c2e9&height=180&section=header&text=Hi!%20I'm%20DongHyuen&fontColor=fff&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=12c2e9&height=180&section=header&text=Hi!%20I'm%20DongHyeon&fontColor=fff&fontSize=50)
 
 <h3 align="center"> 🌳 Main Tech Stack 🌳</h3>
 <p align="center">Techs that I'm used to</p>
