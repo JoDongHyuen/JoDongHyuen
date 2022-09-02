@@ -30,8 +30,8 @@
 <br/>
 
 ## About me
-- 💻(2017.03 ~ current) I'm studying computer science at __Kyungpook National University__
-- :seedling:(2022.07 ~ 2022.08) I did an internship at [(주)에스아이에이](https://www.si-analytics.ai/) as a data platform developer
+- 💻(2017.03 ~ current) I'm studying computer science at **Kyungpook National University**
+- :seedling:(2022.07 ~ 2022.08) I did an internship at [**(주)에스아이에이**](https://www.si-analytics.ai/) as a **data platform developer**
 
 <br/>
 
