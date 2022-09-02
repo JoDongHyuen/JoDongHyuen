@@ -35,9 +35,10 @@
 <br/>
 
 ## Qualification
-- ✔ ADsP (2021.9) |  Advanced Data Analytics Semi-Professional
-- ✔ SQLD (2021.10) | SQL Developer
+- ✔ Engineer Information Processing (2022.9) | 정보처리기사
 - ✔ Samsung SDS SW역량 테스트 | Level - Professional (2022.1)
+- ✔ SQLD (2021.10) | SQL Developer
+- ✔ ADsP (2021.9) |  Advanced Data Analytics Semi-Professional
 
 <br/>
 
