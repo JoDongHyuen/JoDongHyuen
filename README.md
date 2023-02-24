@@ -1,26 +1,26 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=12c2e9&height=180&section=header&text=Hi!%20I'm%20DongHyeon&fontColor=fff&fontSize=50)
 
-<h3 align="center"> 🌳 Main Tech Stack 🌳</h3>
-<p align="center">Techs that I'm used to</p>
+<h3 align="center"> 🌳Tech Stack 🌳</h3>
+<p align="center">Techs that I love or want to learn</p>
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <br/>
-  <img src="https://camo.githubusercontent.com/d6250111701069e7031e7ddf90303e329be5b694b61d90c56118683ad98d7be1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d456c61737469632b537461636b26636f6c6f723d303035353731266c6f676f3d456c61737469632b537461636b266c6f676f436f6c6f723d464646464646266c6162656c3d"/></a>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a>
 </div>
 
 <br/>
-
+<!-- 
 <h3 align="center">🌱 Sub Tech Stack 🌱</h3>
 <p align="center">Techs that I know</p>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
-</div>
+</div> -->
 
-<br/>
+<!-- <br/> -->
 
 <h3 align="center">📣 Contact</h3>
 <div align="center">
