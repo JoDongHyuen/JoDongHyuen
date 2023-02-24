@@ -16,23 +16,6 @@
 </div>
 
 <br/>
-<!-- 
-<h3 align="center">🌱 Sub Tech Stack 🌱</h3>
-<p align="center">Techs that I know</p>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
-</div> -->
-
-<!-- <br/> -->
-
-<h3 align="center">📣 Contact</h3>
-<div align="center">
-  <a href="mailto:rhsnfl1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rhsnfl1122@gmail.com"/></a>
-</div>
-
-<br/>
 
 ## About me
 - 💻(2017.03 ~ 2023.02) I majored computer science at **Kyungpook National University**
