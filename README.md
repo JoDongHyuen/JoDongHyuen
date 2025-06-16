@@ -21,7 +21,8 @@
 - 💻(2017.03 ~ 2023.02) I majored computer science at **Kyungpook National University**
 - :seedling:(2022.07 ~ 2022.08) I did an internship at [**SI-Analytics**](https://www.si-analytics.ai/) as a **Data Platform Developer**
 - :seedling:(2022.09 ~ 2022.12) I did an internship at [**SI-Analytics**](https://www.si-analytics.ai/) as a **Cloud Engineer**
-- 🌳(2022.12 ~ Present) I work at [**Samsung SDS**](https://www.samsungsds.com/kr/index.html) as a **SRE Engineer**
+- 🌳(2022.12 ~ 2024.01) I work at [**Samsung SDS**](https://www.samsungsds.com/kr/index.html) as a **SRE Engineer**
+- 🌳(2024.01 ~ Present) I work at [**Samsung SDS**](https://www.samsungsds.com/kr/index.html) as a **Network Engineer**
 <br/>
 
 ## Qualification
