@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=12c2e9&height=180&section=header&text=Hi!%20I'm%20DongHyeon&fontColor=fff&fontSize=50)
 
 <h3 align="center"> 🌳Tech Stack 🌳</h3>
-<p align="center">Techs that I love or want to learn</p>
+<p align="center">Techs that I use</p>
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
